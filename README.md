@@ -20,15 +20,15 @@ Este repositorio contiene una implementación de una **lista enlazada simple** e
 lista = ListaEnlazada()
 
 # Insertar datos
-lista.insertarInicio(5)
-lista.insertarInicio(10)
-lista.insertarInicio(15)
+lista.insertar(5)
+lista.insertar(10)
+lista.insertar_al_inicio(15)
 
 # Cantidad de nodos
-print("Cantidad de nodos:", lista.cantidadNodos())  # Output: 3
+print("Cantidad de nodos:", lista.cantidad_nodos())  # Output: 3
 
 # Suma de los valores
-print("Suma total:", lista.sumarValores())  # Output: 30
+print("Suma total:", lista.sumar_valores_nodos())  # Output: 30
 
 # Primer valor de la lista
-lista.imprimirPrimero()  # Output: 15
+lista.primer_valor()  # Output: 15
