@@ -1,6 +1,6 @@
 """
 +=========================================== +
-| AUTOR: ALEX DIAZ                           |
+| AUTOR: ALEX DIAZ y SSLER FLORES            |
 | FECHA: 23-04-2025                          |
 | DESCRIPCIÓN: Listas doblemente enlazadas   |
 | proporciona un ejemplo                     |
